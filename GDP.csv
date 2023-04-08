@@ -1,4 +1,4 @@
-Country,Total_GDP,Agricultural,Industrial,Service,Agricultural,Industrial,Service ,,
+Country,Total_GDP,Percentage_Agricultural,Percentage_Industrial,Percentage_Service,Agricultural,Industrial,Service,,
 World,127800000,0.064,0.3,0.636,8179200,38340000,80514000,,
 China,23210000,0.079,0.405,0.516,1833590,9400050,11976360,,
 European Union,20850111,0.016,0.251,0.709,333600,5233350,14782650,,
